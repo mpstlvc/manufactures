@@ -4,7 +4,7 @@
 
 ## 4.2 Description de l'offre  
 
-### 4.3 Plans  
+## 4.3 Plans  
 
 ## 4.4 Programmation, événementiels  
 
