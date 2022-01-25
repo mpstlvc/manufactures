@@ -18,5 +18,32 @@ Des associations pourront venir profiter des espaces offerts par le lieu afin de
 ## 4.3 Plans  
 
 ## 4.4 Programmation, événementiels  
+### 4.4.1 Animations régulières  
+
+#### a. Café Rafistole
+Le café Rafistole est un rendez-vous mensuel ayant lieu le mardi soir. Lors de ce rendez-vous, nous essaierons ensemble de réparer divers appareils électroménagers, électroportatifs, ...  
+Il s'appuie sur la communauté du lieu.  
+Il est l'occasion de sensibiliser à la réparation, au recyclage et au ré emploi.  
+Des trocs de matériel pourront être organisés lors de ces soirées.
+Des soirées hors les murs pourront être organisées, notamment au sein de la recyclerie l'Ile de Lexos.
+
+#### b. Atelier Low Tech  
+Faire simple. Faire mieux avec moins. Penser recyclage, ré emploi.  
+Tels sont quelques idées derrière le terme Low Tech.  
+Comme pour les cafés Rafistole, l'Atelier Low Tech est un rendez-vous mensuel.  
+Des projets en lien avec l'habitat, l'alimentation, le transport ou encore l'énergie seront développés et des expérimentations menées.  
+Pour mener à bien ces projets la communauté pourra s'appuyer sur les outils du fablab de Caylus, les différents espaces à disposition ainsi que le matériel au sein de la manufacture.  
+Un des premiers projets mené sera autour du recylage du plastique. Des broyeurs de plastique industriels ont déjà été acquis afin de broyer les plastiques sous forme de paillettes. Des ateliers de sensibilisation auprès des plus jeunes seront réalisés dans les écoles, centres de loisirs, ...
+Une activité de transformation des plastiques sous diverses formes permettra à des artisans/artistes d'avoir accès à de nouveaux matériaux produits localement et générera une source de revenu pou la manufactre.
+Parallèlement à ces rendez-vous sera mis en place une bricothèque permettant d’emprunter du matériel de bricolage.
+
+#### c. Rencontres thématiques  
+Ces rencontres auront lieu une fois par trimestre et permettront à la fois de partager des informations et de créer une véritable dynamique à l'échelle du territoire en permettant, tant aux habitants qu'aux professionnels, de se rencontrer et de discuter autour de projets ou de faire remonter des besoins/des envies en donnant la parole à chaque personne qui en exprimerait le désir. Les premières rencontres tourneront autour de la céramique et le textile en partenariat avec le tiers-lieu Bazart.
+
+### 4.4.2 Animations ponctuelles  
+
+Sur le lieu pourront se tenir des événements portés par les utilisateurs du lieu en fonction de leurs envies, leurs besoins.  
+
+
 
 [Retour](README.md)
