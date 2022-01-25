@@ -34,7 +34,7 @@ Le CAUE a pour objet la promotion la qualité architecturale, urbaine et paysag�
 La commune de SNV ?
 
 ### 2.2.1 Les fablabs  
-Nous pouvons également citer dans la liste de nos partenaires les fablabs de Tarn-et-Garonne de Montauban, Moissac ou encore Valence-d'Agen mais également les fablabs de la région Occitanie. En effet, des événements communs ont été organisés : un fab distribué autour de l'agriculture et l'alimentation à Albi lors de Fab14, grand messe des fablabs, des Arduinos Days, des Scratchs Days, ...  
+Nous pouvons également citer dans la liste de nos partenaires les fablabs de Tarn-et-Garonne mais également les fablabs de la région Occitanie. Nous participons régulièrement aux rencontres du REDlab, fédération des fablabs d'Occitanie.
 
 ### 2.2.3 Les associations  
 Différentes associations gravitent autour du projet. On peut citer par exemple la radio locale associative CFM Caylus; Bazart Textile, un tiers-lieu de Saint-Antonin-Noble-Val tourné vers le textile ou encore l'Ile de Lexos, recyclerie associative.
