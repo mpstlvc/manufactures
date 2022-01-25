@@ -1,4 +1,4 @@
-# Gouvernance
+# 3 Gouvernance
 
 La gouvernance partagée ou  sociocratie réconcilie la structure décisionnelle (hiérarchique ou non) et la participation active de chacun à un projet collectif. Elle garantie que nul ne pourra imposer une décision sans tenir compte de ceux qui auront à en supporter les conséquences et a pour effet, l’instauration d’une confiance.
 
