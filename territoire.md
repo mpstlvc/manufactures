@@ -1,6 +1,8 @@
 # 2. Territoire d’implantation de la manufacture et ancrage territorial du projet  
 
 
+Le village de Saint Antonin Noble Val qui accueillera la future manufacture est un territoire à l'Est du Tarn-et-Garonne, très rural comptant près de 2000 habitants. Il fait partie de la Communauté de communes Quercy Rouergue et Gorges de l'Aveyron s'étendant sur près de 463km², qui compte environ 8000 habitants répartis sur 17 communes et situé à la croisée du Tarn, du Lot et de L'aveyron. Les grandes villes, Montauban, Cahors ou Villefranche de Rouergue, sont relativement éloignées de ce bassin de vie. Le territoire, formé de trois grandes entités – le Quercy, le Rouergue et les Gorges de la vallée de l’Aveyron – présente une grande diversité de paysages, source de son attractivité.  C'est en périphérie du village que sera implanté implanté "Le bol" manufacture de proximité.
+
 ## 2.1 Caractéristiques du territoire  
 
 ### 2.1.1 Agriculture  
@@ -21,5 +23,25 @@ L'art tient également une grande place sur notre territoire avec la présence d
 
 
 ## 2.2 Partenariats existants  
+
+### 2.2.1 Les institutionnels  
+La cuisine est un centre d’art et de design dédié à la création contemporaine, né en 2014 et développé par la ville de Nègrepelisse. Son ouverture aux thématiques liées à l’alimentation et au design, en fait un lieu unique en Europe.
+Le centre d’art est conçu comme un laboratoire qui invite artistes, designers, graphistes, architectes, etc., à développer des projets situés. Expositions, résidences et workshops permettent d’impliquer le territoire et ses habitants dans le processus de création. 
+
+
+Le CAUE a pour objet la promotion la qualité architecturale, urbaine et paysagère. Le CAUE un organisme créé à l’initiative du Conseil départemental dans le cadre de la loi sur l’architecture de 1977.
+
+La commune de SNV ?
+
+### 2.2.1 Les fablabs  
+Nous pouvons également citer dans la liste de nos partenaires les fablabs de Tarn-et-Garonne de Montauban, Moissac ou encore Valence-d'Agen mais également les fablabs de la région Occitanie. En effet, des événements communs ont été organisés : un fab distribué autour de l'agriculture et l'alimentation à Albi lors de Fab14, grand messe des fablabs, des Arduinos Days, des Scratchs Days, ...  
+
+### 2.2.3 Les associations  
+Différentes associations gravitent autour du projet. On peut citer par exemple la radio locale associative CFM Caylus; Bazart Textile, un tiers-lieu de Saint-Antonin-Noble-Val tourné vers le textile ou encore l'Ile de Lexos, recyclerie associative.
+
+## 2.3 Futurs partenariats
+Nous avons identifiés sur le territoire de multiples acteurs sur lesquels nous pourrions nous appuyer mais aussi pour lesquels le lieu serait une ressource. La CMA82, interlocuteur privilégié des artisans qui nous permettrait de faire connaitre le lieu et qui pourrait aussi être intéressé par les ateliers, les temps de rencontres ou encore les formations dispensées au sein de la manufacture.
+Enfin, comment ne pas citer la fabrique de territoire de Caylus, tiers-lieu tourné vers la fabrication numérique qui sera également un lieu ressource de la manufacture et un partenaire important.
+
 
 [Retour](README.md)
