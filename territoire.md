@@ -33,7 +33,7 @@ Le CAUE a pour objet la promotion la qualité architecturale, urbaine et paysag�
 
 La commune de SNV ?
 
-### 2.2.1 Les fablabs  
+### 2.2.2 Les fablabs  
 Nous pouvons également citer dans la liste de nos partenaires les fablabs de Tarn-et-Garonne mais également les fablabs de la région Occitanie. Nous participons régulièrement aux rencontres du REDlab, fédération des fablabs d'Occitanie.
 
 ### 2.2.3 Les associations  
