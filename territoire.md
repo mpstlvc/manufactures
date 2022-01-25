@@ -42,6 +42,6 @@ Différentes associations gravitent autour du projet. On peut citer par exemple 
 ## 2.3 Futurs partenariats
 Nous avons identifiés sur le territoire de multiples acteurs sur lesquels nous pourrions nous appuyer mais aussi pour lesquels le lieu serait une ressource. La CMA82, interlocuteur privilégié des artisans qui nous permettrait de faire connaitre le lieu et qui pourrait aussi être intéressé par les ateliers, les temps de rencontres ou encore les formations dispensées au sein de la manufacture.
 Enfin, comment ne pas citer la fabrique de territoire de Caylus, tiers-lieu tourné vers la fabrication numérique qui sera également un lieu ressource de la manufacture et un partenaire important.
-
+La SCOP Ozon, située à Septfonds pourra être une ressource qui accompagnera les personnes fréquentant la manufacture dans la professionnalisation de leur activité et dans la création de leur entreprise avec le statut d'entrepreneur-salarié.
 
 [Retour](README.md)
