@@ -1,8 +1,8 @@
 # Manufactures
-Dossier de candidature AMI Manufatures de proximité      
+Dossier de candidature AMI Manufactures de proximité      
 **Mars 2022**  
 
-## **Manufatures de proximité**
+## **Manufactures de proximité**
 1. [Présentation du projet](presentation_projet.md)  
 2. [Territoire d’implantation de la manufacture et ancrage territorial du projet](territoire.md)
 3. [Gouvernance](gouvernance.md)  
