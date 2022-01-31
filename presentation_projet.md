@@ -2,13 +2,13 @@
 
 ## 1.1 Origines et motivations
 
-Ancien syndicat des eaux, friche industrielle abandonnée depuis plus de 16 ans.
-Lieu de pensée, lieu de vie et lieu du FAIRE.
-Le BOL est un tierslieu en devenir autour d'espace de travail partagés et d'outils mutualisés. Univers des savoirs, des savoirs-faire et de la transmission.
-Comme l'eau, symbole de résilience, notre lieu parlera d'économie circulaire, deLow Tech, d'éco-construction et de l'artisanat traditionnel (pratiques séculaires).
+Ancien syndicat des eaux, friche industrielle abandonnée depuis plus de 16 ans.  
+Lieu de pensée, lieu de vie et lieu du FAIRE, le BOL est un tiers-lieu en devenir autour d'espace de travail partagés et d'outils mutualisés.  
+Univers des savoirs, des savoirs-faire et de la transmission.  
+Comme l'eau, symbole de résilience, notre lieu parlera d'économie circulaire, de Low Tech, d'éco-construction et de l'artisanat traditionnel (pratiques séculaires).
 
-Nous y accueillerons une agence d'architecture, des bureaux ou ateliers à louer, un atelier de fabrication partagé, des espaces communs de convivialités et une association d'accompagnement à la conception et la fabrication de projets à dimension variable.
-Un espace de résidence sera mis à disposition pour des projets de création et un espace d'exposition permettra la rencontre, la médiation et les échanges de savoir avec les habitants.
+Nous y accueillerons une agence d'architecture, des bureaux ou ateliers à louer, un atelier de fabrication partagé, des espaces communs de convivialités et une association d'accompagnement à la conception et la fabrication de projets à dimension variable.  
+Un espace de résidence sera mis à disposition pour des projets de création et un espace d'exposition permettra la rencontre, la médiation et les échanges de savoir avec les habitants.  
 
 Le BOL offrira à la fois des espaces de travail, des compétences humaines et logistiques pour développer des projets artistiques, d'économie circulaire, d'architecture, céramique, design, édition, ingénierie papier.
 
