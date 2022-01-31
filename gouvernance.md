@@ -1,6 +1,6 @@
 # 3 Gouvernance
 
-La gouvernance partagée ou  sociocratie réconcilie la structure décisionnelle (hiérarchique ou non) et la participation active de chacun à un projet collectif. Elle garantie que nul ne pourra imposer une décision sans tenir compte de ceux qui auront à en supporter les conséquences et a pour effet, l’instauration d’une confiance.
+La structure porteuse du projet est "Les blouses Brothers", une association qui pourra, au besoin, évoluer vers une SCIC afin de permettre un portage public/privé et à chacun d'avoir une voix dans ce projet. Cette association fédère un collectif d'architectes, designers et makers qui collaborent sur différents projets allant de la réalisation de mobilier pour des expositions à l'animation d'atelier de type "Repair Café" ou encore la collecte, la remise en état et la distribution d'ordinateurs, lors du 1er confinement, destinés aux familles d'enfants étant peu ou pas équipées en matériel informatique.
 
 La volonté de l'équipe projet est de mettre en place une gouvernance partagé.
 Un SCI sera créée pour l'acquisition du bien.
