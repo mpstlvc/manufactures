@@ -12,7 +12,7 @@ Un espace de résidence sera mis à disposition pour des projets de création et
 
 Le BOL offrira à la fois des espaces de travail, des compétences humaines et logistiques pour développer des projets artistiques, d'économie circulaire, d'architecture, céramique, design, édition, ingénierie papier.
 
-Ces compétences développées autour des savoirs-faire des membres fondateurs pourront s'étoffer au fil de la vie du projet. C'est l'ADN propre de ce Bâtiment à Objet Libre.
+Ces compétences développées autour des savoirs-faire des membres fondateurs pourront s'étoffer au fil de la vie du projet. C'est l'ADN propre de ce Bâtiment à Objet Libre.  
 Chaque projet sera l'occasion d'échange et de participation avec le territoire (conférence, performance, convivialité).
 
 L'organisation spatiale des locaux permettra la flexibilité d'aménagement, bouillement de créativité.
