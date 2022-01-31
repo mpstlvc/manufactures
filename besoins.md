@@ -6,8 +6,10 @@
 | ------------------ | ---------: |
 | Aménagement de l'atelier |   20000 €   |  
 | Aménagement de la manufacture |   25000 €   |  
+| Poste de travail |   25000 €   |  
 | Four céramique |   ?    |  
 | Métier à tisser |   ?    |  
+| Extrudeuse filament plastique |   5000 €    | 
 
 ## 6.2 Besoins identifiés en matière d’amorçage
 
