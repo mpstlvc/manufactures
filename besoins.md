@@ -2,8 +2,8 @@
 
 ## 6.1 Invesissements
 
-|    Postes budgétaires    | Montant HT |  
-| ------------- |:-------------:| -----:|
+| Postes budgétaires | Montant HT |  
+| ------------------ | ---------: |
 | Aménagement de l'atelier |   20000    |  
 | Aménagement de la manufacture |   25000    |  
 | Four céramique |   ?    |  
