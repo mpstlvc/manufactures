@@ -10,6 +10,7 @@
 | Four céramique |   ?    |  
 | Métier à tisser |   ?    |  
 | Extrudeuse filament plastique |   5000 €    | 
+| **Total investissements** | ? € |
 
 ## 6.2 Besoins identifiés en matière d’amorçage
 
@@ -18,7 +19,7 @@
 | Création poste concierge manufacture | 50000 €/an |
 | Création poste chargé de communication et animation | 50000 €/an |
 | Loyer | 12000 €/an |
-| Total BFR | 224000 € |
+| **Total BFR** | 224000 € |
 
 
 [Retour](README.md)
