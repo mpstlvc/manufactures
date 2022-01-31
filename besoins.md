@@ -12,7 +12,8 @@
 ## 6.2 Besoins identifiés en matière d’amorçage
 
 | Postes budgétaires | Montant HT |
-|                    |            |
+| ------------------ | ---------: |
+| Création poste concierge manufatcure | 50000/an |
 
 
 [Retour](README.md)
