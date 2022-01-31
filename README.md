@@ -8,4 +8,3 @@ Dossier de candidature AMI Manufatures de proximité
 3. [Gouvernance](gouvernance.md)  
 4. [Description de l'offre de services](offre.md)  
 5. [Modèle économique](modele_eco.md)  
-6. [Ressources humaines](res_h.md)  
