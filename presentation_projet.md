@@ -3,6 +3,7 @@
 ## 1.1 Origines et motivations
 
 Le projet du "B.O.L" (Bâtiment Objets Libres) est né du constat du manque de proposition sur le territoire de lieu dédié aux pratiques artisanales de la cérémique et du textile ainsi que d'espaces et outils adaptés à ces usages. Les low tech et l'économie circulaire tiendront une place particulièrement importante dans le projet avec notamment une activité de recyclage et de revalorisation des plastiques. Ce lieu sera un lieu qui saura accompagner et fédérer les différentes énergies présentes sur le territorie et un lieu ressource en terme d'équipements et de savoirs.
+Pour cela, il s'appuiera sur une équipe projet constitué de membres du Fablab de Caylus.
 
 
 ## 1.2 Présentation de l'équipe projet  
