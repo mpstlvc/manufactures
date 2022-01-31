@@ -13,7 +13,10 @@
 
 | Postes budgétaires | Montant HT |
 | ------------------ | ---------: |
-| Création poste concierge manufatcure | 50000/an |
+| Création poste concierge manufacture | 50000/an |
+| Création poste chargé de communication et animation | 50000/an |
+| Loyer | 12000/an |
+| Total BFR | 224000 |
 
 
 [Retour](README.md)
