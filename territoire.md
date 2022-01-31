@@ -1,7 +1,7 @@
 # 2. Territoire d’implantation de la manufacture et ancrage territorial du projet  
 
 
-Le village de Saint Antonin Noble Val qui accueillera la future manufacture est un territoire à l'Est du Tarn-et-Garonne, très rural comptant près de 2000 habitants. Il fait partie de la Communauté de communes Quercy Rouergue et Gorges de l'Aveyron s'étendant sur près de 463km², qui compte environ 8000 habitants répartis sur 17 communes et situé à la croisée du Tarn, du Lot et de L'aveyron. Les grandes villes, Montauban, Cahors ou Villefranche de Rouergue, sont relativement éloignées de ce bassin de vie. Le territoire, formé de trois grandes entités – le Quercy, le Rouergue et les Gorges de la vallée de l’Aveyron – présente une grande diversité de paysages, source de son attractivité.  C'est en périphérie du village que sera implanté implanté "Le bol" manufacture de proximité.
+Le village de Saint Antonin Noble Val qui accueillera la future manufacture est un territoire à l'Est du Tarn-et-Garonne, très rural comptant près de 2000 habitants. Il fait partie de la Communauté de communes Quercy Rouergue et Gorges de l'Aveyron s'étendant sur près de 463km², qui compte environ 8000 habitants répartis sur 17 communes et situé à la croisée du Tarn, du Lot et de L'aveyron. Les grandes villes, Montauban, Cahors ou Villefranche de Rouergue, sont relativement éloignées de ce bassin de vie. Le territoire, formé de trois grandes entités – le Quercy, le Rouergue et les Gorges de la vallée de l’Aveyron – présente une grande diversité de paysages, source de son attractivité.  C'est en périphérie du village que sera implanté implanté "Le B.O.L" manufacture de proximité.
 
 ## 2.1 Caractéristiques du territoire  
 
@@ -31,7 +31,6 @@ Le centre d’art est conçu comme un laboratoire qui invite artistes, designers
 
 Le CAUE a pour objet la promotion la qualité architecturale, urbaine et paysagère. Le CAUE un organisme créé à l’initiative du Conseil départemental dans le cadre de la loi sur l’architecture de 1977.
 
-La commune de SNV ?
 
 ### 2.2.2 Les fablabs  
 Nous pouvons également citer dans la liste de nos partenaires les fablabs de Tarn-et-Garonne mais également les fablabs de la région Occitanie. Nous participons régulièrement aux rencontres du REDlab, fédération des fablabs d'Occitanie.
