@@ -23,7 +23,8 @@ Ce bâtiment qui a recueilli les eaux souterraines pour irriguer les villages al
 ## 1.2 Présentation de l'équipe projet  
 
 * **Franck Boyer**
-* **Arnaud Roi**
+* **Arnaud Roi**, ingénieur papier, auteur illustrateur vivant à Caylus. Il est l’auteur d’une quarantaine d’ouvrages sous son nom et de plus de cent cinquante ouvrages sous diverses signatures. Formateur depuis des années à travers toute la France et à l’étranger, il enseigne les techniques de l’ingénierie papier en écoles et en entreprise. Il aime comprendre le fonctionnement des choses et la production d’objets. Curieux, il se passionne pour divers sujets allant de la mécanique en passant par la photo, le sport… Tous ces intérêts l’on poussé à créer de nombreuses associations dont certaines employant des personnes. Inépuisable humaniste, il sera une cheville ouvrière et un moteur sur lequel tout projet peu compter.  
+* 
 * **Mickael Postolovic**, Ingénieur généraliste passionné par le mouvement maker et le faire soi-même il aime travailler sur des projets collectifs qui mettent la technologie et l'ingéniosité au service de l'Homme et de l'Environnement.Ancien fabmanager du Fablab Origami il accompagne plus particulièrement les artisans dans l'utilisation des nouveaux outils de fabrication numérique. Il est également en charge de la formation des professionnels. Il participe aux différents projets portés par l'association Origami et le Fablab. Après une formation d'ingénieur en traitement de l'image et vision industrielle et plus d'une dizaine d'année dans l'industrie et très actif dans le monde associatif il apportera une expertise technique auprès des entrepreneurs et utilisateurs des lieux. Il mettra à profit sa connaissance des acteurs locaux et ses compétences tant au niveau formation qu'expérimentation au service de tous.
 
 [Retour](README.md)
