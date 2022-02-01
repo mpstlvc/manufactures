@@ -29,7 +29,7 @@ Des soirées hors les murs pourront être organisées, notamment au sein de la r
 
 #### b. Atelier Low Tech  
 Faire simple. Faire mieux avec moins. Penser recyclage, ré emploi.  
-Tels sont quelques idées derrière le terme Low Tech.  
+Telles sont quelques idées derrière le terme Low Tech.  
 Comme pour les cafés Rafistole, l'Atelier Low Tech est un rendez-vous mensuel.  
 Des projets en lien avec l'habitat, l'alimentation, le transport ou encore l'énergie seront développés et des expérimentations menées.  
 Pour mener à bien ces projets la communauté pourra s'appuyer sur les outils du fablab de Caylus, les différents espaces à disposition ainsi que le matériel au sein de la manufacture.  
